@@ -1,4 +1,4 @@
-# AlpsCatppuccin
+
 ## Included Files:
 ### .themes
 Apply catppuccin theme globally (see gtk-4.0 apps below)
